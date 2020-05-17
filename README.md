@@ -4,6 +4,7 @@
 ## Objective
 
 Original dataset : https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+
 Kaggle Competitions https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
 ### Techniques Used
@@ -20,11 +21,13 @@ Kaggle Competitions https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 4. Random Forest Classifier
 5. XGboost
 
-### Model Evaluation Methods Used
+### Accuracy We got
 
-1. Accuracy Score
-2. Cross Validation
-3. Confusion Matrix
+1. Logistic Regression      : 58.77%
+2. Support Vector Machine 	: 58.77%
+3. Naivye Bayes 			: 59.65%
+4. Random Forest Classifier : 95.61%
+5. XGboost					: 98.25%
 
 
 ## Overview
